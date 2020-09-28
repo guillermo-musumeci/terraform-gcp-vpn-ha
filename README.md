@@ -1,6 +1,6 @@
 # GCP VPN process
 
-Deploy a HA GCP VPN for Production
+Deploy a HA GCP VPN using HashiCorp Terraform
 
 The code deploys:
 
