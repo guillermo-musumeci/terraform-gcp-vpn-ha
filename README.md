@@ -1,4 +1,4 @@
-# GCP VPN process
+# GCP VPN HA process
 
 Deploy a HA GCP VPN using HashiCorp Terraform
 
