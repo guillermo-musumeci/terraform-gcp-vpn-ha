@@ -14,7 +14,7 @@ variable "prefix" {
 
 variable "ha_vpn_folder_id" {
   type        = string
-  description = "Folder to host the Production Project"
+  description = "Folder to host the Project"
 }
 
 variable "ha_vpn_subnet_cidr" {
